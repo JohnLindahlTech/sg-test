@@ -1,0 +1,22 @@
+{
+  "server/server.js": {
+    "17": [
+      "app.emit('started')"
+    ],
+    "18": [
+      "app.get('url')"
+    ],
+    "19": [
+      "g.f('5699eabd1488b3bde01566c68ca0bf3f')"
+    ],
+    "20": [
+      "app.get('loopback-component-explorer')"
+    ],
+    "21": [
+      "app.get('loopback-component-explorer')"
+    ],
+    "22": [
+      "g.f('5e88c1acbc1fbaea1e238a52e80c25f1')"
+    ]
+  }
+}

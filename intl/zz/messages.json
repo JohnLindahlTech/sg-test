@@ -1,0 +1,18 @@
+{
+  "5699eabd1488b3bde01566c68ca0bf3f": [
+    "g.f:server/server.js:19"
+  ],
+  "5e88c1acbc1fbaea1e238a52e80c25f1": [
+    "g.f:server/server.js:22"
+  ],
+  "loopback-component-explorer": [
+    "app.get:server/server.js:20",
+    "app.get:server/server.js:21"
+  ],
+  "started": [
+    "app.emit:server/server.js:17"
+  ],
+  "url": [
+    "app.get:server/server.js:18"
+  ]
+}
